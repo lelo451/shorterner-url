@@ -1,0 +1,8 @@
+POST http://localhost:5000/api/url/shorten
+Content-Type: application/json
+
+{
+  "longUrl": "https://www.amazon.com.br/Playstation-Slim-Terabyte-Horizon-Colossus/dp/B07HKKCXLR/ref=asc_df_B07HKKCXLR/?tag=googleshopp00-20&linkCode=df0&hvadid=379736571543&hvpos=1o1&hvnetw=g&hvrand=7019750955391004729&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=&hvtargid=pla-788067897566&psc=1"
+ }
+
+###
